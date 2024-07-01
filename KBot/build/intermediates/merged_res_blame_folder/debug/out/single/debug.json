@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.kbotapp.android.KBot-merged_res-41:/drawable_send.png.flat",
+        "source": "com.example.kbotapp.android.KBot-main-43:/drawable/send.png"
+    },
+    {
+        "merged": "com.example.kbotapp.android.KBot-merged_res-41:/drawable_kbot.png.flat",
+        "source": "com.example.kbotapp.android.KBot-main-43:/drawable/kbot.png"
+    },
+    {
+        "merged": "com.example.kbotapp.android.KBot-merged_res-41:/drawable_bot.png.flat",
+        "source": "com.example.kbotapp.android.KBot-main-43:/drawable/bot.png"
+    },
+    {
+        "merged": "com.example.kbotapp.android.KBot-merged_res-41:/font_light.otf.flat",
+        "source": "com.example.kbotapp.android.KBot-main-43:/font/light.otf"
+    },
+    {
+        "merged": "com.example.kbotapp.android.KBot-merged_res-41:/font_medium.otf.flat",
+        "source": "com.example.kbotapp.android.KBot-main-43:/font/medium.otf"
+    }
+]
